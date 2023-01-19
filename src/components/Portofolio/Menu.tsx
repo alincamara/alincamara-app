@@ -29,7 +29,7 @@ const Menu = [
     id: 4,
     image: Work4,
     title: 'Started new Youtube chanel - Tot Ce Zboara Se Mananca',
-    category: 'Development',
+    category: 'Videography',
     link: 'https://www.youtube.com/@totcezboarasemananca144',
   },
 ]
