@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="26px" viewBox="0 0 32 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
-    <title>B</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="header-2-copy-7" transform="translate(-44.000000, -61.000000)" fill-rule="nonzero">
-            <g id="header-2">
-                <g id="header">
-                    <g id="B." transform="translate(44.448000, 61.800000)">
-                        <path d="M12.348,25.2 C15.324,25.2 17.61,24.528 19.206,23.184 C20.802,21.84 21.6,19.956 21.6,17.532 C21.6,16.284 21.264,15.162 20.592,14.166 C19.92,13.17 19.092,12.456 18.108,12.024 C18.852,11.64 19.53,11.028 20.142,10.188 C20.754,9.348 21.06,8.352 21.06,7.2 C21.06,4.896 20.316,3.12 18.828,1.872 C17.34,0.624 15.072,7.10542736e-15 12.024,7.10542736e-15 L12.024,7.10542736e-15 L0.9,7.10542736e-15 C0.636,7.10542736e-15 0.42,0.09 0.252,0.27 C0.084,0.45 6.75015599e-14,0.672 6.75015599e-14,0.936 L6.75015599e-14,0.936 L6.75015599e-14,24.3 C6.75015599e-14,24.54 0.09,24.75 0.27,24.93 C0.45,25.11 0.66,25.2 0.9,25.2 L0.9,25.2 L12.348,25.2 Z M11.268,9.972 L6.768,9.972 L6.768,4.86 L11.268,4.86 C12.18,4.86 12.87,5.094 13.338,5.562 C13.806,6.03 14.04,6.636 14.04,7.38 C14.04,8.148 13.8,8.772 13.32,9.252 C12.84,9.732 12.156,9.972 11.268,9.972 L11.268,9.972 Z M11.592,20.34 L6.768,20.34 L6.768,14.688 L11.592,14.688 C12.504,14.688 13.224,14.958 13.752,15.498 C14.28,16.038 14.544,16.716 14.544,17.532 C14.544,18.324 14.286,18.99 13.77,19.53 C13.254,20.07 12.528,20.34 11.592,20.34 L11.592,20.34 Z" id="B" fill="#282642"></path>
-                        <path d="M30.42,25.2 C30.684,25.2 30.9,25.11 31.068,24.93 C31.236,24.75 31.32,24.54 31.32,24.3 L31.32,24.3 L31.32,19.548 C31.32,19.284 31.236,19.062 31.068,18.882 C30.9,18.702 30.684,18.612 30.42,18.612 L30.42,18.612 L25.668,18.612 C25.404,18.612 25.182,18.702 25.002,18.882 C24.822,19.062 24.732,19.284 24.732,19.548 L24.732,19.548 L24.732,24.3 C24.732,24.564 24.822,24.78 25.002,24.948 C25.182,25.116 25.404,25.2 25.668,25.2 L25.668,25.2 L30.42,25.2 Z" id="." fill="#FF4C60"></path>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(255,255,255,0)"/>
+<g transform="matrix(1 0 0 1 425.9689 548.8618)" id="20788">
+<g style="">
+		<g transform="matrix(1 0 0 1 0 0)" style="" id="345571">
+		
+<path xml:space="preserve" font-family="Roboto" font-size="872" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(40,38,66); fill-rule: nonzero; opacity: 1; white-space: pre;" d="M154.98 273.93L111.98 146.20L-111.98 146.20L-154.56 273.93L-290.38 273.93L-59.61-346.01L58.76-346.01L290.81 273.93L154.98 273.93ZM-0.43-189.32L-77.49 42.73L77.49 42.73L-0.43-189.32Z"/></g>
+		<g transform="matrix(0.6633 0 0 0.6633 352.8367 219.0495)" id="502441">
+<path style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform=" translate(-79, -78.9999)" d="M 154.685 2.50049 H 154.711 L 154.738 2.49994 C 155.15 2.49126 155.491 2.81853 155.5 3.2304 L 155.5 3.23069 C 155.5 3.24095 155.5 3.25176 155.5 3.26283 L 155.499 3.28886 V 3.3149 V 154.686 C 155.499 155.135 155.135 155.5 154.685 155.5 H 3.31409 C 2.86449 155.5 2.5 155.135 2.5 154.686 V 3.3149 C 2.5 2.86483 2.86465 2.50049 3.31409 2.50049 H 154.685 Z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(20.024 0 0 20.024 397.185 210.5286)" id=".">
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(255,76,96); fill-rule: nonzero; opacity: 1;" transform=" translate(-28.026, -21.906)" d="M 30.42 25.2 C 30.684 25.2 30.9 25.11 31.068 24.93 C 31.236 24.75 31.32 24.54 31.32 24.3 L 31.32 24.3 L 31.32 19.548 C 31.32 19.284 31.236 19.062 31.068 18.882 C 30.9 18.702 30.684 18.612 30.42 18.612 L 30.42 18.612 L 25.668 18.612 C 25.404 18.612 25.182 18.702 25.002 18.882 C 24.822 19.062 24.732 19.284 24.732 19.548 L 24.732 19.548 L 24.732 24.3 C 24.732 24.564 24.822 24.78 25.002 24.948 C 25.182 25.116 25.404 25.2 25.668 25.2 L 25.668 25.2 L 30.42 25.2 Z" stroke-linecap="round"/>
+</g>
+<path xml:space="preserve" font-family="Roboto" font-size="872" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(40,38,66); fill-rule: nonzero; opacity: 1; white-space: pre;" d="M154.98 273.93L111.98 146.20L-111.98 146.20L-154.56 273.93L-290.38 273.93L-59.61-346.01L58.76-346.01L290.81 273.93L154.98 273.93ZM-0.43-189.32L-77.49 42.73L77.49 42.73L-0.43-189.32Z"/></g>
+<path xml:space="preserve" font-family="Roboto" font-size="872" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: rgb(40,38,66); fill-rule: nonzero; opacity: 1; white-space: pre;" d="M154.98 273.93L111.98 146.20L-111.98 146.20L-154.56 273.93L-290.38 273.93L-59.61-346.01L58.76-346.01L290.81 273.93L154.98 273.93ZM-0.43-189.32L-77.49 42.73L77.49 42.73L-0.43-189.32Z"/></g>
 </svg>
