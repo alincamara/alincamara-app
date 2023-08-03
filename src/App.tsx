@@ -5,6 +5,8 @@ import React, {
 import // useSelector,
 // useDispatch
 'react-redux'
+import { Routes, Route } from 'react-router-dom'
+
 import { Sidebar } from './components/Sidebar'
 import { Home } from './components/Home'
 import { About } from './components/About'
@@ -25,17 +27,25 @@ const App = (): ReactElement => {
     <div className="app">
       <>
         <Sidebar />
-        <main className="main">
-          <Home />
-          <About />
-          <Services />
-          <Resume />
-          <Portofolio />
-          <Pricing />
-          <Testimonials />
-          <Blog />
-          <Contact />
-        </main>
+        <Routes>
+          <Route
+            path="/"
+            element={
+              <main className="main">
+                <Home />
+                <About />
+                <Services />
+                <Resume />
+                <Portofolio />
+                <Pricing />
+                <Testimonials />
+                <Blog />
+                <Contact />
+              </main>
+            }
+          />
+          <Route path="/admin" element={<div>pagina goala</div>} />
+        </Routes>
       </>
     </div>
   )
