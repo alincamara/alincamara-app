@@ -8,7 +8,11 @@ import { BrowserRouter } from 'react-router-dom'
 
 const store = createStore(
   allReducers,
+  // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+  // @ts-ignore
   window.__REDUX_DEVTOOLS_EXTENSION__ &&
+    // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+    // @ts-ignore
     window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__()
 )
 

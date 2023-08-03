@@ -24,30 +24,28 @@ const App = (): ReactElement => {
   // const dispatch = useDispatch()
 
   return (
-    <div className="app">
-      <>
-        <Sidebar />
-        <Routes>
-          <Route
-            path="/"
-            element={
-              <main className="main">
-                <Home />
-                <About />
-                <Services />
-                <Resume />
-                <Portofolio />
-                <Pricing />
-                <Testimonials />
-                <Blog />
-                <Contact />
-              </main>
-            }
-          />
-          <Route path="/admin" element={<div>pagina goala</div>} />
-        </Routes>
-      </>
-    </div>
+    <Routes>
+      <Route path="admin" element={<div>pagina goala</div>} />
+      <Route
+        path="/"
+        element={
+          <>
+            <Sidebar />
+            <main className="main">
+              <Home />
+              <About />
+              <Services />
+              <Resume />
+              <Portofolio />
+              <Pricing />
+              <Testimonials />
+              <Blog />
+              <Contact />
+            </main>
+          </>
+        }
+      />
+    </Routes>
   )
 }
 
